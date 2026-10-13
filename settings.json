@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "emberknightkingdom.minefort.com",
-    "port": 25565,
+    "ip": "EmberKnightKINGDOM.aternos.me",
+    "port": 41726,
     "version": "1.20.1",
     "try-creative": false
   },
